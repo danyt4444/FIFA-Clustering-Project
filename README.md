@@ -1,1 +1,1 @@
-# FIFA-Clustering-Project - the goal of this project is to find the optimal number of clusters for 200 randomly selected players from the video game FIFA 23. We will only be looking at Age, Potential and Overall (Rating). 
+# FIFA-Clustering-Project - The goal of this project is to find the optimal number of clusters for 200 randomly selected players from the video game FIFA 23. We will only be looking at Age, Potential and Overall (Rating). 
